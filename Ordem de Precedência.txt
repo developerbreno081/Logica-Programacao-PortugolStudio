@@ -1,0 +1,9 @@
+Abaixo a ordem de priorização no momento
+de qualquer cálculo.
+
+Ordem de Precedência
+	1. Parênteses ()
+	2. Multiplicação x
+	3. Divisão /
+	4. Adição +
+	5. Subtração -
