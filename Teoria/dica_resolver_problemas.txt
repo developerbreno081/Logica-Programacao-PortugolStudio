@@ -1,0 +1,6 @@
+1. Entenda completamente o problema
+2. Divida o problema em partes menores
+3. Projete uma solução
+
+
+
